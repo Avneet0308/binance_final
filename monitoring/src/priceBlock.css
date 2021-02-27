@@ -1,0 +1,44 @@
+h6{
+  font-size: 20px;
+}
+
+
+.tradeTable,
+.depthTable {
+  border: black 1px solid;
+  width: 100%;
+}
+table tr td{
+  padding: 1px;
+  text-align: center;
+}
+
+table tr td p{
+  margin: 0;
+  line-height: 15px;
+  font-size: 15px;
+}
+
+.leftDiv {
+  width: 49%;
+  margin: 0.5%;
+  float: left;
+  overflow: auto;
+}
+
+.rightDiv {
+  width: 49%;
+  margin: 0.5%;
+  float: right;
+  height: 310px;
+  overflow: auto;
+}
+
+.icons {
+  margin-left: 3px;
+  margin-right: 3px;
+  height: 18px;
+  text-decoration: None;
+  color: black;
+}
+

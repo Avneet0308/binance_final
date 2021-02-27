@@ -1,0 +1,22 @@
+.priceDiv {
+  /* padding-left: 20%;
+  padding-right: 20%; */
+}
+.priceTable tr td {
+  text-align: left;
+  padding-left: 10%;
+  margin: 0;
+}
+
+.priceTable h3 {
+  margin: 0;
+}
+
+table tr td{
+  padding: 5px 0px 0px 0px;
+}
+
+h3{
+  font-size: 28px;
+  line-height: 23px;
+}
